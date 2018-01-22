@@ -1,5 +1,5 @@
 ---
-title: SMART on FHIR app tutorial lakshmiprabharamasamy
+title: SMART on FHIR app tutorial lakshmiprabharamasamy 
 
 language_tabs:
   - code
